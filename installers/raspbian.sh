@@ -196,7 +196,7 @@ function _display_welcome() {
     echo -e "                             88"
     echo -e "                             dP      version ${RASPAP_RELEASE}"
     echo -e "${ANSI_GREEN}"
-    echo -e "The Quick Installer will guide you through a few easy steps${ANSI_RESET}\n\n"
+    echo -e "VERSION DU DEPOT GITHUB BTS_CIEL PMF....The Quick Installer will guide you through a few easy steps${ANSI_RESET}\n\n"
 }
 
 # Fetch latest release from GitHub or RaspAP Installer API
